@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "100170916748",
+    "firebase_url": "https://lambe-news-update.firebaseio.com",
+    "project_id": "lambe-news-update",
+    "storage_bucket": "lambe-news-update.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:100170916748:android:63da8ec0f32285ff7daca9",
+        "android_client_info": {
+          "package_name": "com.worldtechpoints.lambenewsupdate"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "100170916748-9gjkuqfjj1o4b99qlg5e8saa3kiiv5co.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.worldtechpoints.lambenewsupdate",
+            "certificate_hash": "262d321363fce92bbe5b278c1f20693d921fb38c"
+          }
+        },
+        {
+          "client_id": "100170916748-alvudq0hbova3ao7pbc643lq4mpuk225.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBmkNsDtbS6Gi4911rgxleo4zIL-1aasYQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "100170916748-alvudq0hbova3ao7pbc643lq4mpuk225.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

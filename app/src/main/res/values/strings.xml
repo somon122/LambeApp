@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">Lambe news update</string>
+
+
+    <string name="banner_ad_unit_id">ca-app-pub-3940256099942544/6300978111</string>
+    <string name="test_AppUnitId">ca-app-pub-3940256099942544~3347511713</string>
+
+
+    <string name="mainBanner_ad_unit_id">ca-app-pub-7888587621635916/603733115</string>
+    <string name="main_AppUnitId">ca-app-pub-7888587621635916~3296932786</string>
+
+
+    <string name="title_activity_home">HomeActivity</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Lambe</string>
+    <string name="nav_header_subtitle">somon12230327@gmail.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+
+    <string name="menu_home">Home</string>
+    <string name="menu_admin_panel">Admin Panel</string>
+    <string name="menu_privacy">Privacy policy</string>
+    <string name="menu_wallet">Wallet</string>
+    <string name="menu_share">Share</string>
+    <string name="menu_login">Login</string>
+    <string name="menu_rate_us">Rate us</string>
+    <string name="menu_exits">Exits</string>
+
+
+</resources>
